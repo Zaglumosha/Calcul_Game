@@ -19,7 +19,7 @@
 1. Убедитесь, что Composer установлен глобально.
 2. Установите игру:
     ```bash
-    composer global require Zaglumonina/php_zaglumonina_ai
+    composer global require zaglumosha/php_zaglumonina_ai
 3. Запустите игру из командной строки:
     ```bash
     calcg
@@ -39,7 +39,7 @@ Task01/CALC \
 └── README.md                 # Описание проекта 
 
 ## Ссылки
-- Packagist: [CALC Game](https://packagist.org/packages/erefef/php_zaglumonina_ai)
+- Packagist: [CALC Game](https://packagist.org/packages/zaglumosha/php_zaglumonina_ai)
 - [Репозиторий на GitHub](https://github.com/Zaglumosha/Calcul_Game)
 - Автор: zaglumonina
 - Лицензия: MIT
